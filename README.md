@@ -1,5 +1,3 @@
-# 🥑📱 GROCERY SHOP APP x FLUTTER
-
-Watch tutorial here: https://youtu.be/uSljGJGSl6w
-
-![53AC0750-FB81-4C11-9349-448E7FC4717E](https://user-images.githubusercontent.com/29016489/202695738-b37d8ffe-a2c7-41fb-9719-b032bb1ab8c4.JPG)
+![1](https://user-images.githubusercontent.com/93067257/215333793-e913072d-82aa-45e5-a0b6-a0d7142ec2b8.jpeg)
+![2](https://user-images.githubusercontent.com/93067257/215333806-dc493fcf-f1b0-4f0e-ae28-6c10fb48a49a.jpeg)
+![3](https://user-images.githubusercontent.com/93067257/215333815-9304bb37-3958-414b-bfb7-c703cffde1b3.jpeg)
